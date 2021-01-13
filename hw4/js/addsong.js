@@ -25,3 +25,6 @@ function Clearform(){
     document.getElementById('artist').value =''
     document.getElementById('lyrics').value =''
 }
+
+
+localStorage.clear();
